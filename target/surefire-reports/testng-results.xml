@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FinalProjectVersion2" duration-ms="4041" started-at="2020-09-24T19:34:28Z" finished-at="2020-09-24T19:34:32Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="909" started-at="2020-09-24T19:34:28Z" finished-at="2020-09-24T19:34:29Z">
+      <class name="testcases.TestCase001_verifyLogin">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testcases.TestCase001_verifyLogin@7c417213]" name="verifyLogin" duration-ms="676" started-at="2020-09-24T15:34:28Z" finished-at="2020-09-24T15:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- testcases.TestCase001_verifyLogin -->
+    </test> <!-- Login Test -->
+    <test name="Verify Add Payee Test" duration-ms="930" started-at="2020-09-24T19:34:29Z" finished-at="2020-09-24T19:34:30Z">
+      <class name="testcases.TestCase002_verifyAddPayee">
+        <test-method status="PASS" signature="verifyAddPayee()[pri:0, instance:testcases.TestCase002_verifyAddPayee@7ff95560]" name="verifyAddPayee" duration-ms="909" started-at="2020-09-24T15:34:29Z" finished-at="2020-09-24T15:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddPayee -->
+      </class> <!-- testcases.TestCase002_verifyAddPayee -->
+    </test> <!-- Verify Add Payee Test -->
+    <test name="Verify Transfer Fund Test" duration-ms="631" started-at="2020-09-24T19:34:30Z" finished-at="2020-09-24T19:34:30Z">
+      <class name="testcases.TestCase003_verifyTransferFund">
+        <test-method status="PASS" signature="verifyTransferFund()[pri:0, instance:testcases.TestCase003_verifyTransferFund@78dd667e]" name="verifyTransferFund" duration-ms="613" started-at="2020-09-24T15:34:30Z" finished-at="2020-09-24T15:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransferFund -->
+      </class> <!-- testcases.TestCase003_verifyTransferFund -->
+    </test> <!-- Verify Transfer Fund Test -->
+    <test name="Verify Pay Bills Test" duration-ms="669" started-at="2020-09-24T19:34:30Z" finished-at="2020-09-24T19:34:31Z">
+      <class name="testcases.TestCase004_verifyPayBills">
+        <test-method status="PASS" signature="verifyPayBills()[pri:0, instance:testcases.TestCase004_verifyPayBills@402e37bc]" name="verifyPayBills" duration-ms="649" started-at="2020-09-24T15:34:30Z" finished-at="2020-09-24T15:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPayBills -->
+      </class> <!-- testcases.TestCase004_verifyPayBills -->
+    </test> <!-- Verify Pay Bills Test -->
+    <test name="Verify Online Statement Download Test" duration-ms="879" started-at="2020-09-24T19:34:31Z" finished-at="2020-09-24T19:34:32Z">
+      <class name="testcases.TestCase005_verifyOnlineStatementDownload">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.TestCase005_verifyOnlineStatementDownload@70be0a2b]" name="init" is-config="true" duration-ms="6365" started-at="2020-09-24T15:34:21Z" finished-at="2020-09-24T15:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyOnlineStatement()[pri:0, instance:testcases.TestCase005_verifyOnlineStatementDownload@70be0a2b]" name="verifyOnlineStatement" duration-ms="843" started-at="2020-09-24T15:34:31Z" finished-at="2020-09-24T15:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnlineStatement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TestCase005_verifyOnlineStatementDownload@70be0a2b]" name="tearDown" is-config="true" duration-ms="843" started-at="2020-09-24T15:34:32Z" finished-at="2020-09-24T15:34:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TestCase005_verifyOnlineStatementDownload -->
+    </test> <!-- Verify Online Statement Download Test -->
+  </suite> <!-- FinalProjectVersion2 -->
+</testng-results>

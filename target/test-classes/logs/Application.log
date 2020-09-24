@@ -1,0 +1,12 @@
+24/09/2020 15:34:21 qaLogger loading the config property file
+24/09/2020 15:34:25 qaLogger chrome browser launched
+24/09/2020 15:34:28 qaLogger verify login test started
+24/09/2020 15:34:28 qaLogger verify login test completed
+24/09/2020 15:34:29 qaLogger verifyAddPayee test started
+24/09/2020 15:34:30 qaLogger verifyAddPayee test completed
+24/09/2020 15:34:30 qaLogger verifyTransferFund test started
+24/09/2020 15:34:30 qaLogger verifyTransferFund test completed
+24/09/2020 15:34:30 qaLogger verifyPayBills test started
+24/09/2020 15:34:31 qaLogger verifyPayBills test started
+24/09/2020 15:34:31 qaLogger verifyOnlineStatement test started
+24/09/2020 15:34:32 qaLogger verifyOnlineStatement test completed

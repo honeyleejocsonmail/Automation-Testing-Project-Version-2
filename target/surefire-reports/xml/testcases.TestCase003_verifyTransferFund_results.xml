@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Verify Transfer Fund Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.613">
+  <properties />
+  
+  
+            <testcase name="verifyTransferFund" time="0.613" classname="testcases.TestCase003_verifyTransferFund" />
+      
+</testsuite>
